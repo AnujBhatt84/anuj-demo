@@ -1,4 +1,4 @@
 # anuj-demo
 this is my first repository
 <br>
-author - anuj bhatt
+author - anuj BHATT
